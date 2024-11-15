@@ -39,3 +39,6 @@ O sistema integra o sensor MQ-2 a uma placa **ESP8266**, responsável por proces
 
 ## Implementações futuras  
 Para evoluir o projeto, pode-se incluir novos sensores para monitorar outros gases, integrar câmeras de segurança ou alarmes remotos e explorar ferramentas de machine learning para análise preditiva dos dados coletados.
+
+## Atenção
+Este é um projeto acadêmico e quem queira reproduzir o mesmo em ambiente real é responsável pela implementação e segurança de sua aplicação.
